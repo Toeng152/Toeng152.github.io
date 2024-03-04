@@ -13,4 +13,4 @@
 ## Certificates
 [fortigate](fortigate.md)
 
-[securityblueteam].(security_blue_team.md)
+[securityblueteam](security_blue_team.md)
