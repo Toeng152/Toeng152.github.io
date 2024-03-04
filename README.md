@@ -6,6 +6,8 @@
 + Information Technology 
 + Institute of Vovational education : Central Region 5
 
+[card](card.md)
+
 [HelloWorld](HelloWorld.md)
 
 [PDPA](PDPA.md)
