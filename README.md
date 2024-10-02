@@ -18,8 +18,8 @@
 [securityblueteam](security_blue_team.md)
 
 ## Digital Badges
-[Fundamentals of Predictive Project Management](https://www.credly.com/earner/earned/badge/56564f3e-5c1f-4687-a787-139ac8cbb64d)
+[Fundamentals of Predictive Project Management](https://www.credly.com/badges/56564f3e-5c1f-4687-a787-139ac8cbb64d/public_url)
 
-[Fundamentals of Agile Project Management](https://www.credly.com/earner/earned/badge/27345b62-d7e4-42b4-b551-a68c528186e5)
+[Fundamentals of Agile Project Management](https://www.credly.com/badges/27345b62-d7e4-42b4-b551-a68c528186e5/public_url)
 
-[Generative AI Overview for Project Managers](https://www.credly.com/earner/earned/badge/c4e5a8a1-bb6a-47e9-8271-cc917d7bebff)
+[Generative AI Overview for Project Managers](https://www.credly.com/badges/c4e5a8a1-bb6a-47e9-8271-cc917d7bebff/public_url)
