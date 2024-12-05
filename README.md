@@ -23,3 +23,5 @@
 [Fundamentals of Agile Project Management](https://www.credly.com/badges/27345b62-d7e4-42b4-b551-a68c528186e5/public_url)
 
 [Generative AI Overview for Project Managers](https://www.credly.com/badges/c4e5a8a1-bb6a-47e9-8271-cc917d7bebff/public_url)
+
+[Design Sprint Professional Certification - DSPC™](https://www.credly.com/badges/2c621a87-94bc-4d94-8762-2be8aab8f93d/public_url)
